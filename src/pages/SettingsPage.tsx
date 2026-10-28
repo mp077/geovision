@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Server,
   CheckCircle2,
@@ -26,6 +26,10 @@ export const SettingsPage: React.FC = () => {
   } = useSpecimens();
 
   const [localUrl, setLocalUrl] = useState(backendUrl);
+
+  useEffect(() => {
+    setLocalUrl(backendUrl);
+  }, [backendUrl]);
 
   const handleSaveEndpoint = () => {
     setBackendUrl(localUrl);
@@ -56,7 +60,7 @@ export const SettingsPage: React.FC = () => {
               type="text"
               value={localUrl}
               onChange={(e) => setLocalUrl(e.target.value)}
-              placeholder="http://localhost:8000/api/v1"
+              placeholder="/api/v1 or https://your-backend.onrender.com/api/v1"
               className="flex-1 text-xs p-2 bg-[#FAF9F6] border border-[#DDD8CD] rounded-lg text-[#1C2127] font-mono-data focus:outline-none focus:border-[#2B5742]"
             />
             <button
@@ -76,6 +80,34 @@ export const SettingsPage: React.FC = () => {
               ) : (
                 <span>Test Connection</span>
               )}
+            </button>
+          </div>
+
+          <div className="flex items-center gap-2 text-xs">
+            <span className="text-[#6E7781] text-[11px]">Quick Presets:</span>
+            <button
+              type="button"
+              onClick={() => {
+                const url = '/api/v1';
+                setLocalUrl(url);
+                setBackendUrl(url);
+                addToast('Endpoint Updated', 'Switched to current domain (/api/v1)', 'info');
+              }}
+              className="px-2.5 py-1 rounded bg-[#EBF3EE] text-[#2B5742] hover:bg-[#D5EADF] font-semibold text-[11px] border border-[#CCE2D5]"
+            >
+              Current Host (/api/v1)
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                const url = 'http://localhost:8000/api/v1';
+                setLocalUrl(url);
+                setBackendUrl(url);
+                addToast('Endpoint Updated', 'Switched to localhost:8000', 'info');
+              }}
+              className="px-2.5 py-1 rounded bg-[#FAF9F6] border border-[#DDD8CD] text-[#57606A] hover:bg-[#F2EFE9] text-[11px]"
+            >
+              Localhost (8000)
             </button>
           </div>
 
