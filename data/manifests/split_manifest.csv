@@ -1,0 +1,1961 @@
+path,label,split
+data\raw\rock_classification\Dataset\Sedimentary\Coal\4.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\243.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\165.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\229.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\53.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\236.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\13.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\250.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\351.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\148.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\198.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\94.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\91.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\97.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\309.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\134.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\115.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\188.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\23.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\1.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\362.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\195.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\358.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\218.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\141.png,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\354.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\357.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\22.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\27.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\304.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\47.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\30.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\350.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\17.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\186.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\133.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\143.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\279.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\172.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\254.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\120.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\270.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\192.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\293.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\121.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\107.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\327.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\102.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\203.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\130.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\248.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\73.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\184.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\191.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\329.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\204.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\280.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\337.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\34.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\199.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\306.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\108.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\200.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\298.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\31.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\342.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\72.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\182.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\82.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\78.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\346.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\311.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\64.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\103.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\153.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\244.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\345.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\257.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\15.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\77.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\36.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\12.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\57.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\303.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\278.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\154.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\269.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\168.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\359.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\340.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\255.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\344.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\220.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\43.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\125.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\159.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\201.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\228.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\319.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\210.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\35.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\104.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\331.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\189.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\106.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\369.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\95.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\81.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\58.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\163.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\267.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\274.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\347.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\325.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\241.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\126.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\87.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\99.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\16.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\213.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\364.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\56.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\333.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\183.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\314.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\25.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\19.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\365.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\79.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\71.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\260.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\138.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\219.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\231.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\127.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\113.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\221.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\117.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\116.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\284.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\328.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\155.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\174.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\296.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\315.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\101.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\96.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\18.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\349.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\44.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\235.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\343.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\194.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\288.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\145.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\256.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\171.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\122.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\226.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\140.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\225.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\301.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\0.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\37.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\39.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\85.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\170.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\289.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\185.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\326.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\321.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\302.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\124.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\10.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\238.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\158.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\8.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\367.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\282.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\353.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\38.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\320.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\249.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\206.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\352.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\368.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\26.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\135.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\123.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\98.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\370.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\223.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\227.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\324.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\335.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\190.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\322.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\3.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\207.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\246.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\292.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\308.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\234.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\240.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\290.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\42.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\371.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\160.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\132.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\215.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\264.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\80.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\224.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\268.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\32.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\323.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\52.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\242.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\149.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\88.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\355.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\20.jpg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\178.jpeg,coal,train
+data\raw\rock_classification\Dataset\Sedimentary\Coal\307.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\105.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\310.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\152.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\110.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\299.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\297.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\317.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\90.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\276.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\150.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\363.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\49.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\263.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\339.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\162.jpeg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\196.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\216.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\137.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\156.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\361.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\233.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\139.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\262.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\251.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\114.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\266.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\66.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\341.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\28.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\161.png,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\271.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\205.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\281.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\29.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\181.jpeg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\287.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\334.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\65.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\54.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\146.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\84.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\40.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\245.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\214.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\119.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\131.jpg,coal,val
+data\raw\rock_classification\Dataset\Sedimentary\Coal\197.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\286.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\247.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\136.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\294.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\157.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\41.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\338.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\118.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\232.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\277.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\283.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\144.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\295.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\86.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\93.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\273.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\208.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\175.jpeg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\74.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\275.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\89.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\179.jpeg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\100.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\24.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\330.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\21.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\316.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\92.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\2.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\63.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\11.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\360.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\217.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\209.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\142.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\111.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\112.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\318.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\83.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\14.png,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\48.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\147.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\164.jpeg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\211.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\222.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\237.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\109.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Coal\151.jpg,coal,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\313.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\271.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\206.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\247.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\195.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\111.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\208.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\145.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\34.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\230.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\1.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\319.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\35.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\197.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\57.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\303.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\255.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\320.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\40.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\275.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\133.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\76.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\246.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\214.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\160.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\216.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\22.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\229.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\276.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\179.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\15.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\223.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\312.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\183.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\167.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\309.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\325.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\92.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\336.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\144.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\51.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\141.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\108.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\322.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\96.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\115.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\69.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\172.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\60.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\33.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\97.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\211.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\114.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\43.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\209.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\278.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\9.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\199.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\318.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\262.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\46.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\142.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\67.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\42.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\170.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\226.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\277.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\26.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\274.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\212.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\263.png,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\243.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\301.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\238.jpeg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\105.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\100.jpeg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\118.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\125.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\32.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\330.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\13.png,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\311.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\140.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\220.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\178.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\217.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\188.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\281.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\302.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\224.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\120.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\288.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\234.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\242.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\21.jpeg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\192.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\64.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\52.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\95.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\18.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\174.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\171.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\196.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\153.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\296.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\135.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\232.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\316.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\200.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\83.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\41.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\59.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\17.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\3.webp,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\121.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\191.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\182.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\293.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\71.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\30.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\124.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\116.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\334.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\310.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\329.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\268.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\287.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\292.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\50.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\173.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\130.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\58.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\25.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\256.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\36.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\335.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\148.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\84.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\94.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\332.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\239.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\333.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\163.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\146.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\194.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\248.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\337.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\241.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\6.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\184.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\205.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\272.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\4.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\328.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\24.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\29.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\164.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\129.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\107.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\258.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\23.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\297.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\222.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\45.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\257.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\117.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\169.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\180.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\198.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\147.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\259.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\284.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\155.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\157.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\314.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\185.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\210.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\70.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\154.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\99.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\315.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\193.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\127.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\27.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\139.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\54.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\98.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\261.png,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\285.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\331.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\28.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\286.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\106.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\20.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\143.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\327.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\159.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\138.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\282.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\249.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\44.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\321.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\290.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\186.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\126.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\260.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\161.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\264.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\55.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\187.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\90.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\295.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\19.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\175.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\11.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\131.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\204.jpg,limestone,train
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\7.jpeg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\39.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\240.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\190.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\306.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\109.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\5.png,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\137.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\266.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\119.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\128.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\10.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\235.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\68.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\270.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\233.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\207.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\61.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\91.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\65.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\254.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\132.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\289.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\181.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\0.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\110.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\168.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\305.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\202.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\253.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\123.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\112.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\31.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\324.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\323.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\162.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\62.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\221.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\53.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\85.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\265.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\201.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\236.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\231.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\176.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\151.jpg,limestone,val
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\158.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\66.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\166.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\150.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\89.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\72.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\245.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\317.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\177.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\237.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\280.jpeg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\218.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\134.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\269.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\8.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\82.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\49.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\203.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\63.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\73.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\149.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\77.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\101.webp,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\136.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\87.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\326.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\244.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\165.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\294.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\228.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\215.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\251.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\2.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\225.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\252.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\56.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\78.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\88.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\308.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\14.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\12.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\93.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\86.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\219.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\81.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\16.png,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\298.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Limestone\213.jpg,limestone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\190.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\239.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\305.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\303.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\163.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\221.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\320.webp,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\63.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\146.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\108.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\151.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\41.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\227.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\0.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\79.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\38.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\176.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\204.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\208.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\66.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\105.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\181.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\42.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\39.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\142.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\156.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\309.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\81.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\268.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\114.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\84.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\296.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\247.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\89.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\123.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\300.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\128.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\74.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\254.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\54.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\99.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\214.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\201.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\77.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\286.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\293.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\15.webp,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\290.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\47.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\271.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\61.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\93.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\285.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\234.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\94.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\6.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\260.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\145.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\34.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\283.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\7.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\171.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\164.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\235.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\19.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\137.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\217.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\274.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\53.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\220.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\172.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\65.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\215.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\3.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\258.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\265.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\30.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\75.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\297.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\112.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\192.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\1.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\132.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\308.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\284.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\313.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\131.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\188.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\109.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\130.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\168.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\287.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\218.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\270.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\43.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\298.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\52.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\269.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\196.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\229.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\28.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\242.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\252.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\245.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\56.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\134.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\12.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\267.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\111.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\306.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\87.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\85.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\129.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\150.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\18.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\71.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\311.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\21.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\185.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\277.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\138.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\159.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\231.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\152.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\140.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\166.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\70.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\17.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\50.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\193.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\149.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\167.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\119.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\101.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\44.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\224.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\4.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\226.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\27.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\194.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\324.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\117.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\141.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\219.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\10.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\51.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\161.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\248.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\272.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\158.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\180.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\147.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\211.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\14.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\174.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\213.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\40.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\177.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\187.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\240.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\230.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\206.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\291.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\203.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\162.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\118.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\304.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\173.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\16.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\95.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\315.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\96.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\210.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\223.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\241.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\97.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\25.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\68.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\139.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\20.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\33.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\264.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\205.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\246.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\182.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\2.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\76.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\212.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\197.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\86.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\178.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\249.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\5.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\113.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\312.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\98.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\199.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\222.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\179.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\9.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\281.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\48.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\125.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\238.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\259.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\169.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\279.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\261.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\46.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\154.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\244.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\26.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\236.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\115.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\143.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\307.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\191.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\186.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\257.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\232.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\302.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\103.jpg,sandstone,train
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\233.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\122.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\170.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\49.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\29.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\73.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\32.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\266.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\273.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\55.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\24.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\80.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\184.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\278.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\69.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\45.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\207.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\148.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\23.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\124.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\255.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\209.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\127.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\153.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\133.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\243.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\102.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\90.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\144.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\155.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\321.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\104.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\275.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\116.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\13.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\202.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\262.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\121.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\106.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\319.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\135.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\216.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\92.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\228.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\58.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\72.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\57.jpg,sandstone,val
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\31.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\198.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\251.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\88.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\22.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\120.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\183.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\314.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\160.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\299.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\136.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\67.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\282.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\11.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\59.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\157.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\317.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\175.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\288.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\256.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\83.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\110.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\35.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\301.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\225.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\8.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\37.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\200.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\64.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\60.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\294.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\91.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\237.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\263.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\100.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\322.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\276.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\78.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\107.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\82.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\280.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\295.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\195.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\126.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\292.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\316.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\62.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\253.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Sedimentary\Sandstone\289.jpg,sandstone,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1162414197-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (39).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (390).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (33).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (363).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (618).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-945040766-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\f25410f4f2fe80400d6f95a9a534d1b8.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (445).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-494347833-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (513).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (501).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-619512250-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1161379462-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (366).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (384).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (590).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (362).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1132036755-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (25).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-530863591-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (416).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1289284267-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\MarbleGrayBanded.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1187562031-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (431).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (584).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (369).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (572).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (341).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (377).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-125913888-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (417).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (602).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (408).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (588).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (350).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-677811978-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (533).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (554).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (409).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (46).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-675540094-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (499).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1174840718-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\mineral-stone-marble-nonfoliated-metamorphic-260nw-349915676.webp,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (32).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\rock-kit.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (615).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (376).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-489869682-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (460).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-174823235-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (343).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (47).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (601).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (577).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (18).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (381).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (375).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1126972775-612x612.jpg,marble,train
+"data\raw\rock_classification\Dataset\Metamorphic\Marble\e9445d48-36f0-4ecf-b097-96ed445a9f74.__CR255,99,3210,1985_PT0_SX970_V1___.jpg",marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (515).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (4).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-497903898-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (26).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (576).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (14).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (455).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (503).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (15).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (22).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (497).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (411).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (335).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (339).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (401).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (594).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (34).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (511).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-878788946-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (388).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (16).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (587).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (500).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (346).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (361).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (504).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (12).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\u3tqorgn31mp65iypkwy_7e2e86ad-6a3f-410e-9584-caa5b075ccd7_825x700.webp,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-476416199-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (570).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (402).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-164901147-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (471).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1269930537-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\Marble Madoc01.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-521027443-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (614).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (36).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (520).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (415).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (595).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1030995030-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\pink-marble.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (365).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-160185822-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (531).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (459).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (447).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (368).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (483).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (446).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (38).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (498).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (521).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (432).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (603).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (410).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\bflnze7yaaqme5qkgdqc_b5de349d-b6be-48ce-a108-0ede8f2a8b4c_915x700.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (11).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (573).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (481).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-693871142-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (522).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1250967782-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (591).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (555).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (507).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (44).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (559).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1185894713-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-92256869-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (354).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (353).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-132055060-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-694142286-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\White-Marble-Metamorphic-Rock.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1043676632-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-660591162-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (42).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (403).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (40).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (385).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1040347728-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (393).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (606).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1002671368-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (585).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (352).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (422).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (468).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (514).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (420).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (334).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1757-marble-calcite-Leivset-19-cm.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (383).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (9).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (6).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (476).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (548).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (451).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (7).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (479).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (550).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (544).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1124987135-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (518).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-477628714-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (532).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\raw-marble-rock-cutout-white-background-172494727.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1022140840-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (396).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1097421014-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (433).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (30).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (35).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (492).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1195174656-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\Marble-084-RD010-C-SH_nltxub.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (13).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1167831985-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (448).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (586).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (421).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (336).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\macro-shooting-of-metamorphic-rock-specimens-piece-of-white-marble-GRAB0R.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (467).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-521072811-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (342).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (2).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (439).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (579).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (488).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (495).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1197424395-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (406).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (509).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (434).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (529).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1022140854-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (21).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (413).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (547).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-482566421-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-136979336-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (461).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (372).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1283499830-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (607).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1213873924-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (611).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-116188290-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (616).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (536).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1207160907-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (395).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (398).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (436).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-484343309-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (423).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (349).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (600).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (438).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1212854544-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (464).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (466).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (571).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\marble3.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1161379400-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\marble-941374788-5b16eaa4fa6bcc00369692c7.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1173337113-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-596802498-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (379).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1186790561-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (551).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (397).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (414).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (575).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (552).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (545).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (380).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (28).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-532448735-612x612.jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (345).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (582).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (530).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (444).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (469).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (592).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (358).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (407).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (348).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (456).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (43).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (437).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (598).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (604).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (569).jpg,marble,train
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-686552998-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (617).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (465).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-116125011-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (389).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (371).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1169370453-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\p.482.1-white_marble_metamorphic_rock.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\marbwht1-897.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (357).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (565).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (17).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (478).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (391).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (435).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (24).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (373).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (605).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-625332712-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-939752264-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (378).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\marble.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (412).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (337).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-182148999-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (612).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (516).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-183755373-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (404).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (338).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (568).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (593).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1078006654-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (10).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (8).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-689288296-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (370).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-530873807-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (443).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (48).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (355).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (589).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (29).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1125425397-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (557).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-897447204-612x612.jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (610).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (567).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (494).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (392).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (364).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (486).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (496).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (566).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (506).jpg,marble,val
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-184592313-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-509006947-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (608).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (580).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1194236031-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (400).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (458).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (583).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1655-Ahola-dolomite-marble-8-cm.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (597).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (399).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\raw-marble-rock-isolated-white-closeup-sample-natural-mineral-geological-collection-background-170796580.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1182072248-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (450).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (20).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1194236642-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1178410349-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (430).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (356).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (23).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (440).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1226893929-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (487).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (578).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (31).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1207543738-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (351).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-89088931-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (609).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1049711572-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (613).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (452).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (558).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (470).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (596).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (374).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (581).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (463).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1172079174-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1201821562-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (475).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (394).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (340).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (347).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (382).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (45).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (387).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-502976396-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (424).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1089481820-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (37).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (574).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (41).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-591405034-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-1194297497-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\istockphoto-175255333-612x612.jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Marble\1 (449).jpg,marble,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(270).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(377).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\00096180014947910921026.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(345).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(252).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(438).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(428).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(261).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(208).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(145).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(174).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(397).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(383).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(51).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(97).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(214).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(346).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(30).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(509).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(334).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(205).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(391).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(457).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(378).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(413).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(3).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(265).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(86).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(327).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(126).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(176).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(35).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(355).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(389).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(275).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(333).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(172).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(468).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(253).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(406).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(393).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(207).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(254).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(356).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(332).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(166).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(531).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(256).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(317).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(455).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(519).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(46).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\09624110015898065506629.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(159).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(151).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(278).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(154).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(64).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(307).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(87).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(195).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(135).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780128141243001023-f102-07-9780128141243.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(186).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(425).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(294).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(210).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(313).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(181).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(109).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(5).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(89).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(153).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(279).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(287).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(34).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(274).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(218).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1009039398-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(380).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(284).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(76).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(300).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(395).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(436).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(316).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(43).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(13).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(326).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(431).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(266).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(121).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(180).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(360).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(376).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(506).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(219).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(91).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(489).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-516391884-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(78).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(429).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(163).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(164).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(24).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(315).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(141).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(236).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(200).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(412).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(6).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(143).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(147).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(241).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(179).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(204).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780444639011000411-f41-10-9780444639011.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(368).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(58).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(255).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(32).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(328).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(229).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(71).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(497).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(31).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(305).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(144).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(435).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(213).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1200978594-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(379).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(28).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(235).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(485).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(525).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(466).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(167).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(75).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(168).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(312).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(420).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(38).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(277).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(331).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(228).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(369).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(111).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(245).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(465).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(335).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(507).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(382).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(311).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780123838322000931-f90-03-9780123838322.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(460).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(99).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(488).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(290).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(185).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(226).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(192).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(363).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(162).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(104).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(20).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780123838322000931-f90-02-9780123838322.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(94).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(73).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(272).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(103).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(171).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(249).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(98).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(528).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(499).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(342).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(81).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1135857001-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(129).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(283).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(209).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(456).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(374).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(461).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(530).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(149).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(63).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(138).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(16).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(136).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(54).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(341).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(232).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(182).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(526).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780444639011000411-f41-12-9780444639011.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(508).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(69).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(215).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(61).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(230).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(83).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(359).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(155).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(112).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(405).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(17).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(113).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(212).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(301).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(49).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(60).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(463).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(234).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(68).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(529).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(247).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\Quartzite (1).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\quartzite2.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(105).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(250).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\amphibolite.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(339).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(271).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(314).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(123).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(343).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(302).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(106).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(231).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(225).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\Quartzite_299251520-150x150.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(165).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(263).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\QuartziteTanSml.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(175).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(124).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(169).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(4).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(190).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(177).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(354).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(502).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(387).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(108).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(515).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(240).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(95).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(12).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(102).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(183).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(370).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(224).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(156).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(487).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780123838322000931-f90-01-9780123838322.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(42).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(96).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(237).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(22).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(173).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(1).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(217).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-484404526-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(297).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(199).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(222).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(407).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(88).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(259).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\quartzite-crystal-mineral-sample-studio-shot-with-black-background-972333846-5c7e6525c9e77c0001d19dda.webp,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(198).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(324).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1172732945-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(77).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(338).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(137).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(26).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(238).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(227).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(501).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(293).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(260).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(288).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(80).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(57).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(65).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(37).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(114).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(366).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(53).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(269).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(133).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(299).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(131).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(128).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(79).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(118).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(318).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(160).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(27).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(211).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(390).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(440).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(239).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(132).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1164037901-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(281).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(414).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(251).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(289).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(2).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(469).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(41).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(59).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(364).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(498).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1016473794-612x612.jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(298).jpg,quartzite,train
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(394).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(337).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(8).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(23).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(353).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(55).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(273).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(244).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(362).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(384).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(417).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(409).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(220).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(500).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(117).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(62).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(396).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(242).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(125).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(120).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(92).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(33).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(48).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(295).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(282).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(320).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(84).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(10).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(423).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(310).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(233).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(344).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(432).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(107).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(40).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(197).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(336).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(308).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(139).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(388).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(340).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(90).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(306).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(319).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(116).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(142).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(348).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(292).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(67).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(110).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(216).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(527).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780128205853000077-f07-19-9780128205853.jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(243).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(386).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(203).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(85).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780128205853000077-f07-18-9780128205853.jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(150).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\gneiss.jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(433).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(14).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(170).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(21).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-93179285-612x612.jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(15).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(157).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(82).jpg,quartzite,val
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\05819280015911796649727.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(74).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(158).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(246).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(201).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(193).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-492199581-612x612.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(189).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(365).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(56).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(119).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(187).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(371).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(70).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(148).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(206).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(248).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(66).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(11).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\3-s2.0-B9780444639011000411-f41-11-9780444639011.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(39).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(421).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(422).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(191).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(434).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(130).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\quartzite.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(146).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(178).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(221).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(280).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(115).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(262).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(424).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(36).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(267).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(462).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\istockphoto-1062419138-612x612.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(264).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\Silica_quartzite_368487638-150x150.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(93).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(303).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(194).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\quartzite-fuchsite.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(464).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(101).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(223).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(286).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(400).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(329).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(9).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(134).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(430).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(29).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(161).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(504).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\Quartzite (2).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(385).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(291).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(358).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(467).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(52).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(44).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(268).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(309).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(276).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(152).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(357).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\quartzite1.jpg,quartzite,test
+data\raw\rock_classification\Dataset\Metamorphic\Quartzite\images(202).jpg,quartzite,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\can-stock-photo_csp10523025.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\35.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\40.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\2.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\28.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\44.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\1.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\istockphoto-184659485-612x612.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\15.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\43.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\4.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\148248735-grey-rock-pile-isolated-on-white-background.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\38.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\basalt-columns.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\49.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\5.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\500_F_123148070_rcGuQFVCzgOdSamq7U0mleROolKCbBsJ.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\14.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\800px_COLOURBOX18999858.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\Ornament-Basalt-Rock-X-small-14x7x6.7cm-37152XS-JPG.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\41.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\below-tumbling-grade-basalt-lg.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\26.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\12.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\piece-raw-gray-hyalobasalt-rock-isolated-closeup-sample-natural-mineral-geological-collection-white-background-170798111.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\1850214285_8a641c7410_m.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\6.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\basalt-texture.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\10.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\319581160.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\unnamed.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\16.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\7.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\18.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\8.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\33.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\32.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\rosen-kazlachev-full.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\50.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\31.png,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\48.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\36.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\7ae2fbb2259062b944e5f9f551330008.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\images.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\319581046.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\BasaltOlivinePheno.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\52.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\34.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\20.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\51.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\46.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\collection-small-rock-isolated-white-background_70287-3572.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\23.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\Vesicular-and-Amygdaloidal-Textures.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\9.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\20190118_165618.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\rosetta-stone.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\gettyimages-1127177629-612x612.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\gettyimages-865515424-612x612.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\29.jpg,basalt,train
+data\raw\rock_classification\Dataset\Igneous\Basalt\11.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\piilonen09-10.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\45.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\25.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\unpolished-gray-basalt-rock-cutout-on-white-background-2AXX13J.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\240_F_96439435_ccm6M1GN74GBAsg7e4PcEuuJhLaobBM4.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\P1020339.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\47.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\21.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\Scoria-from-Etna.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\13.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\BasaltOlivinePhenoCUp.jpg,basalt,val
+data\raw\rock_classification\Dataset\Igneous\Basalt\c0046667-800px-wm.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\Basalt-Lava-Rock-Vivarium-Guide-768x568.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\19.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\37.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\17.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\24.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\22.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\30.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\27.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\Basalt mix.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\42.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\3.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\268-2689908_cut-content-subnautica-wiki-fandom-powered-by-wikia.png,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Basalt\39.jpg,basalt,test
+data\raw\rock_classification\Dataset\Igneous\Granite\50.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\69.png,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\3.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\32.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\74.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\60.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\44.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\80.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\73.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\22.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\81.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\95.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\57.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\29.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\77.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\5.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\54.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\16.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\42.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\99.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\64.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\58.png,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\92.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\48.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\96.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\90.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\33.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\83.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\85.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\25.png,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\71.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\61.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\31.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\40.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\13.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\20.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\67.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\97.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\52.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\30.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\63.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\82.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\79.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\9.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\17.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\51.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\68.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\76.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\8.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\84.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\10.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\41.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\70.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\39.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\59.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\15.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\91.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\37.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\46.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\56.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\93.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\34.JPEG,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\7.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\14.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\24.png,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\45.jpg,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\granite.png,granite,train
+data\raw\rock_classification\Dataset\Igneous\Granite\87.png,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\23.jpeg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\6.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\72.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\75.JPEG,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\28.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\35.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\4.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\100.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\98.JPEG,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\1.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\62.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\86.JPEG,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\89.jpg,granite,val
+data\raw\rock_classification\Dataset\Igneous\Granite\66.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\43.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\12.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\26.png,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\27.jpeg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\49.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\88.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\21.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\47.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\11.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\36.JPEG,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\53.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\19.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\55.jpg,granite,test
+data\raw\rock_classification\Dataset\Igneous\Granite\38.jpg,granite,test

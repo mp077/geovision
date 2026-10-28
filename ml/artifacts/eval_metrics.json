@@ -1,0 +1,53 @@
+{
+  "test_accuracy": 0.6523,
+  "macro_precision": 0.6408,
+  "macro_recall": 0.6065,
+  "macro_f1": 0.6166,
+  "num_test_samples": 302,
+  "num_classes": 7,
+  "avg_confidence": 0.5621,
+  "per_class": {
+    "basalt": {
+      "precision": 0.625,
+      "recall": 0.3571,
+      "f1": 0.4545,
+      "support": 14
+    },
+    "coal": {
+      "precision": 0.7755,
+      "recall": 0.7755,
+      "f1": 0.7755,
+      "support": 49
+    },
+    "granite": {
+      "precision": 0.3889,
+      "recall": 0.4667,
+      "f1": 0.4242,
+      "support": 15
+    },
+    "limestone": {
+      "precision": 0.66,
+      "recall": 0.6875,
+      "f1": 0.6735,
+      "support": 48
+    },
+    "marble": {
+      "precision": 0.4615,
+      "recall": 0.5263,
+      "f1": 0.4918,
+      "support": 57
+    },
+    "quartzite": {
+      "precision": 0.6479,
+      "recall": 0.6571,
+      "f1": 0.6525,
+      "support": 70
+    },
+    "sandstone": {
+      "precision": 0.9268,
+      "recall": 0.7755,
+      "f1": 0.8444,
+      "support": 49
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "model_architecture": "MobileNetV2",
+  "num_classes": 7,
+  "classes": [
+    "basalt",
+    "coal",
+    "granite",
+    "limestone",
+    "marble",
+    "quartzite",
+    "sandstone"
+  ],
+  "image_size": 224,
+  "best_val_loss": 1.0761,
+  "best_val_acc": 0.6436,
+  "epochs_trained": 5,
+  "batch_size": 32,
+  "seed": 42,
+  "training_samples": 1369,
+  "validation_samples": 289,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.6115,
+      "train_acc": 0.4361,
+      "val_loss": 1.3753,
+      "val_acc": 0.5848
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.2508,
+      "train_acc": 0.58,
+      "val_loss": 1.2622,
+      "val_acc": 0.5917
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.1511,
+      "train_acc": 0.615,
+      "val_loss": 1.0761,
+      "val_acc": 0.6436
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.057,
+      "train_acc": 0.6289,
+      "val_loss": 1.2063,
+      "val_acc": 0.6367
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.0527,
+      "train_acc": 0.6377,
+      "val_loss": 1.0959,
+      "val_acc": 0.6471
+    }
+  ]
+}

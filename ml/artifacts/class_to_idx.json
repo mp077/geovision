@@ -1,0 +1,9 @@
+{
+  "basalt": 0,
+  "coal": 1,
+  "granite": 2,
+  "limestone": 3,
+  "marble": 4,
+  "quartzite": 5,
+  "sandstone": 6
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "udayl/rocks (rock-classification mirror)",
+    "description": "Geological rock classification (Basalt, Granite, Marble, Quartzite, Coal, Limestone, Sandstone)",
+    "output_dir": "rock_classification",
+    "approx_images": 2083,
+    "downloaded": true
+  }
+]

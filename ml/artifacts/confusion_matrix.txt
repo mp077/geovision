@@ -1,0 +1,9 @@
+Confusion Matrix
+  basalt      coal   granite  limeston    marble  quartzit  sandston
+  basalt         5         3         1         3         1         0         1
+    coal         1        38         1         0         5         3         1
+ granite         2         0         7         1         1         3         1
+limeston         0         3         3        33         7         2         0
+  marble         0         4         1         7        30        15         0
+quartzit         0         1         4         4        15        46         0
+sandston         0         0         1         2         6         2        38
