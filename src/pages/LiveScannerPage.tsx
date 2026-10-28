@@ -77,6 +77,7 @@ export const LiveScannerPage: React.FC = () => {
     setSelectedBufferImage,
     addToast,
     backendUrl,
+    backendStatus,
   } = useSpecimens();
 
   const overlayCanvasRef = useRef<HTMLCanvasElement>(null);
@@ -86,22 +87,36 @@ export const LiveScannerPage: React.FC = () => {
   const [lastBoxes, setLastBoxes] = useState<DetectionBox[]>([]);
   const [latencyMs, setLatencyMs] = useState<number | null>(null);
   const [detectionMethod, setDetectionMethod] = useState<string>('—');
-  const [backendOnline, setBackendOnline] = useState<boolean | null>(null);
+  const [backendOnline, setBackendOnline] = useState<boolean | null>(backendStatus === 'connected');
   const [showGrid, setShowGrid] = useState(true);
   const [showReticle, setShowReticle] = useState(true);
   const [detectionActive, setDetectionActive] = useState(false);
 
-  // Check backend health on mount
+  // Check backend health on mount and sync with global status
   useEffect(() => {
+    if (backendStatus === 'connected') {
+      setBackendOnline(true);
+      return;
+    }
     (async () => {
       try {
         const res = await fetch(`${backendUrl}/health`, { signal: AbortSignal.timeout(3000) });
         setBackendOnline(res.ok);
       } catch {
+        // Auto-fallback for remote hosts (e.g. mobile on Render)
+        if (typeof window !== 'undefined' && backendUrl.includes('localhost') && window.location.hostname !== 'localhost') {
+          try {
+            const fallbackRes = await fetch(`${window.location.origin}/api/v1/health`, { signal: AbortSignal.timeout(3000) });
+            setBackendOnline(fallbackRes.ok);
+            return;
+          } catch {
+            // ignore
+          }
+        }
         setBackendOnline(false);
       }
     })();
-  }, [backendUrl]);
+  }, [backendUrl, backendStatus]);
 
   // Draw boxes on overlay canvas whenever lastBoxes changes
   const drawBoxes = useCallback((boxes: DetectionBox[]) => {

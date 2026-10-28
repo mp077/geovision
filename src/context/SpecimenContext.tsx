@@ -42,6 +42,22 @@ interface SpecimenContextType {
 
 const SpecimenContext = createContext<SpecimenContextType | undefined>(undefined);
 
+const getInitialBackendUrl = (): string => {
+  if (typeof window !== 'undefined') {
+    const saved = localStorage.getItem('geovision_backend_url');
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    // If the saved URL is a localhost URL, but user is currently visiting a remote domain (like on Render on mobile):
+    // Ignore the stale localhost setting and use the host origin!
+    if (saved && (!saved.includes('localhost') || isLocal)) {
+      return saved;
+    }
+    if (!isLocal) {
+      return `${window.location.origin}/api/v1`;
+    }
+  }
+  return import.meta.env.VITE_API_URL || '/api/v1';
+};
+
 export const SpecimenProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [specimens, setSpecimens] = useState<SpecimenRecord[]>(() => {
     const saved = localStorage.getItem('geovision_specimens');
@@ -58,7 +74,16 @@ export const SpecimenProvider: React.FC<{ children: React.ReactNode }> = ({ chil
   const [toasts, setToasts] = useState<ToastMessage[]>([]);
   const [defaultHistoryView, setDefaultHistoryView] = useState<'grid' | 'table'>('grid');
   const [measurementUnit, setMeasurementUnit] = useState<'metric' | 'imperial'>('metric');
-  const [backendUrl, setBackendUrl] = useState<string>(import.meta.env.VITE_API_URL || 'http://localhost:8000/api/v1');
+  const [backendUrl, setBackendUrlState] = useState<string>(getInitialBackendUrl);
+
+  const setBackendUrl = (url: string) => {
+    try {
+      localStorage.setItem('geovision_backend_url', url);
+    } catch {
+      // ignore
+    }
+    setBackendUrlState(url);
+  };
   const [backendStatus, setBackendStatus] = useState<'disconnected' | 'checking' | 'connected' | 'error'>('disconnected');
   const [backendMessage, setBackendMessage] = useState<string>('Frontend prototype mode — no active ML backend connection.');
   const [capturedFrames, setCapturedFrames] = useState<CapturedFrame[]>([]);
@@ -197,6 +222,17 @@ export const SpecimenProvider: React.FC<{ children: React.ReactNode }> = ({ chil
         addToast('Connection Failed', `Server returned status ${response.status}`, 'error');
       }
     } catch {
+      // Auto-fallback: if connection failed and backendUrl contains localhost while on a remote domain (e.g. mobile on Render):
+      if (typeof window !== 'undefined' && backendUrl.includes('localhost') && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+        const fallbackUrl = `${window.location.origin}/api/v1`;
+        try {
+          localStorage.setItem('geovision_backend_url', fallbackUrl);
+        } catch {
+          // ignore
+        }
+        setBackendUrl(fallbackUrl);
+        return;
+      }
       setBackendStatus('disconnected');
       setBackendMessage(`No service listening at ${backendUrl}. Operating in standalone frontend prototype mode.`);
       addToast('Backend Disconnected', 'No local FastAPI server detected. Operating in demo mode.', 'info');
